@@ -1,7 +1,7 @@
 
 **Instituto Federal de Santa Catarina**
 
-# Dispositivos Lógicos Programáveis II 
+# Dispositivos Lógicos Programáveis I 
 
 # Grupo Semafórico
 
